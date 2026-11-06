@@ -37,8 +37,8 @@ Kenya generates over 80% of its electricity from renewables, but faces 23.4% sys
 |:-:|:--------:|:-------:|:------:|:-------------:|:--------:|:------:|
 |C1 | [Procurement plan and tender documents](docs/Procurement_Plan_and_Tender_Documents.md) | Hardware sourcing, vendor criteria, local service availability | Procurement | **Procurement lead** | Vendors | [x] |
 |C2 | [Budget and cost tracker](docs/Budget_and_Cost_Tracker.xlsx) | Tracks against KSh 50–100m, with contingency use | All | **Finance lead** | Funders | [x] |
-|C3 | [Installation and commissioning plan](docs/Installation_and_Commissioning_Plan.md) | Sequence, safety, acceptance criteria | Installation | **Technical lead** | Installers, site hosts | [ ] |
-|C4 | [OpenEMS configuration baseline](docs/#) | Version-controlled Edge configs per site | Installation | **Software engineer** | Technical team | [ ] |
+|C3 | [Installation and commissioning plan](docs/Installation_and_Commissioning_Plan.md) | Sequence, safety, acceptance criteria | Installation | **Technical lead** | Installers, site hosts | [x] |
+|C4 | [OpenEMS configuration baseline](docs/OpenEMS_Configuration_Baseline.md) | Version-controlled Edge configs per site | Installation | **Software engineer** | Technical team | [x] |
 |C5 | [Site acceptance test reports](docs/#) | Evidence that each site meets spec before operation | Installation | **Technical lead** | Steering group | [ ] |
 |C6 | [Health, safety and environmental plan](docs/#) | Battery handling, electrical safety, end-of-life | Installation | **Site engineer** | Installers, hosts | [ ]|
 
