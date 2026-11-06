@@ -26,9 +26,9 @@ Kenya generates over 80% of its electricity from renewables, but faces 23.4% sys
 |B1 | [Feasibility study](docs/Feasibility_Study.md) | Validates the techno-economic framework and the 15–30% savings claim locally | Planning | **Techno-economic analyst** | Funders, steering group | [x] |
 |B2 | [Techno-economic model and assumptions book](docs/Techno-Economic_Model_and_Assumptions_Book.xlsx) | NPV, payback, LCOE, sensitivities (battery ±20%, discount rate 5–12%, net-metering credit) | Planning | **Techno-economic analyst** | Internal, reviewers | [x] |
 |B3 | [Site survey reports (A, B, C)](docs/Site_Survey_Reports.md) | Load profiles, existing assets, grid connection, connectivity | Planning | **Technical lead** | Design team | [x] |
-|B4 | [Technical specification per site](docs/#) | System sizing, OpenEMS controller selection, device compatibility | Planning | **Technical lead** | Procurement, installers | [ ] |
-|B5 | [Regulatory compliance assessment](docs/#) | Net-metering rules, BESS and EV charger licensing, EPRA and Kenya Power interconnection | Planning | **Legal/regulatory lead** | EPRA, Kenya Power | [ ] |
-|B6 | [Interoperability and device compatibility register](docs/#) | Tested inverters, meters, chargers against OpenEMS drivers | Planning, then Installation | **Technical lead** | Technical team | [ ] |
+|B4 | [Technical specification per site](docs/Technical_Specification_per_Site.md) | System sizing, OpenEMS controller selection, device compatibility | Planning | **Technical lead** | Procurement, installers | [x] |
+|B5 | [Regulatory compliance assessment](docs/Regulatory_Compliance_Assessment.md) | Net-metering rules, BESS and EV charger licensing, EPRA and Kenya Power interconnection | Planning | **Legal/regulatory lead** | EPRA, Kenya Power | [x] |
+|B6 | [Interoperability and device compatibility register](docs/Interoperability_and_Device_Compatibility_Register.md) | Tested inverters, meters, chargers against OpenEMS drivers | Planning, then Installation | **Technical lead** | Technical team | [x] |
 |B7 | [Cybersecurity plan](docs/#) | Authentication, encryption, remote access, audit scope | Planning | **Cybersecurity lead** | Technical team, Kenya Power ICT | [ ] |
 
 ### C. Procurement and installation
