@@ -6,3 +6,6 @@
 
 # Microsoft Office temporary lock files
 ~$*.xlsx
+
+# utility documents 
+docs/Research_Report.pdf
