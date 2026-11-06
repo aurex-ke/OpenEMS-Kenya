@@ -35,7 +35,7 @@ Kenya generates over 80% of its electricity from renewables, but faces 23.4% sys
 
 |ID | Document | Purpose | Phase | Proposed owner | Audience | Status |
 |:-:|:--------:|:-------:|:------:|:-------------:|:--------:|:------:|
-|C1 | [Procurement plan and tender documents](docs/#) | Hardware sourcing, vendor criteria, local service availability | Procurement | **Procurement lead** | Vendors | [ ] |
+|C1 | [Procurement plan and tender documents](docs/Procurement_Plan_and_Tender_Documents.md) | Hardware sourcing, vendor criteria, local service availability | Procurement | **Procurement lead** | Vendors | [x] |
 |C2 | [Budget and cost tracker](docs/#) | Tracks against KSh 50–100m, with contingency use | All | **Finance lead** | Funders | [ ] |
 |C3 | [Installation and commissioning plan](docs/#) | Sequence, safety, acceptance criteria | Installation | **Technical lead** | Installers, site hosts | [ ] |
 |C4 | [OpenEMS configuration baseline](docs/#) | Version-controlled Edge configs per site | Installation | **Software engineer** | Technical team | [ ] |
