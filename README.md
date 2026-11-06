@@ -29,7 +29,7 @@ Kenya generates over 80% of its electricity from renewables, but faces 23.4% sys
 |B4 | [Technical specification per site](docs/Technical_Specification_per_Site.md) | System sizing, OpenEMS controller selection, device compatibility | Planning | **Technical lead** | Procurement, installers | [x] |
 |B5 | [Regulatory compliance assessment](docs/Regulatory_Compliance_Assessment.md) | Net-metering rules, BESS and EV charger licensing, EPRA and Kenya Power interconnection | Planning | **Legal/regulatory lead** | EPRA, Kenya Power | [x] |
 |B6 | [Interoperability and device compatibility register](docs/Interoperability_and_Device_Compatibility_Register.md) | Tested inverters, meters, chargers against OpenEMS drivers | Planning, then Installation | **Technical lead** | Technical team | [x] |
-|B7 | [Cybersecurity plan](docs/#) | Authentication, encryption, remote access, audit scope | Planning | **Cybersecurity lead** | Technical team, Kenya Power ICT | [ ] |
+|B7 | [Cybersecurity plan](docs/Cybersecurity_Plan.md) | Authentication, encryption, remote access, audit scope | Planning | **Cybersecurity lead** | Technical team, Kenya Power ICT | [x] |
 
 ### C. Procurement and installation
 
