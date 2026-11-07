@@ -23,13 +23,16 @@ starting work. This helps establish the scope and avoid duplicating effort.
    underway.
 2. Describe the problem and proposed change in an issue, especially for
    significant or cross-document work.
-3. Make a focused change. Keep unrelated edits in separate contributions.
-4. Submit a pull request with a concise summary, the reason for the change,
-   and any relevant issue links.
-5. Respond to review feedback and update the contribution as needed.
+3. Start from the latest `develop` branch. Create a focused working branch
+   from it (or use a fork if you do not have permission to create branches in
+   this repository). Do not push changes directly to `main`.
+4. Make a focused change. Keep unrelated edits in separate contributions.
+5. Open a pull request targeting `develop`, with a concise summary, the reason
+   for the change, and any relevant issue links.
+6. Respond to review feedback and update the pull request as needed.
 
-If this project is hosted on a platform with a different contribution workflow,
-follow the instructions in its issue and pull-request interface.
+Changes are reviewed and integrated into `develop` before maintainers promote
+them to `main`.
 
 ## Documentation and research standards
 
