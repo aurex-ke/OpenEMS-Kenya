@@ -46,7 +46,7 @@ Kenya generates over 80% of its electricity from renewables, but faces 23.4% sys
 
 |ID | Document | Purpose | Phase | Proposed owner | Audience | Status |
 |:-:|:--------:|:-------:|:------:|:-------------:|:--------:|:------:|
-|D1 | [Monitoring and evaluation plan](docs/#) | KPI definitions, baselines, measurement points, data frequency | Planning, then Operation | **M&E / data analyst** | Evaluators | [ ] |
+|D1 | [Monitoring and evaluation plan](docs/Monitoring_and_Evaluation_Plan.md) | KPI definitions, baselines, measurement points, data frequency | Planning, then Operation | **M&E / data analyst** | Evaluators | [x] |
 |D2 | [Data management and privacy plan](docs/#) | Logging, storage, access, retention, consent | Planning | **Data analyst** | Partners, regulators | [ ] |
 |D3 | [Operations and maintenance manual](docs/#) | Routine checks, battery plan, fault handling, escalation | Operation | **Technical lead** | Local operators | [ ] |
 |D4 | [Training materials and attendance records](docs/#) | Operator and utility staff capacity building | Installation, Operation | **Capacity-building lead** | Operators, KPLC staff | [ ] |
