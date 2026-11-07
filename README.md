@@ -13,7 +13,7 @@ Kenya generates over 80% of its electricity from renewables, but faces 23.4% sys
 |ID | Document | Purpose | Phase | Proposed owner | Audience | Status |
 |:-:|:--------:|:-------:|:------:|:-------------:|:--------:|:------:|
 |A1	| [Problem Statement](docs/Problem_Statement.md) | Background, research gap, central question, objectives, scope | Foundation | **Research lead** | Funders, partners | [x] |
-|A2 | [Executive Summary](docs/Executive_Summary.md) | Context, OpenEMS capabilities, evidence, techno-economic framework, risks, pilot design | Foundation | **Research lead** | Funders, regulators | [x] |
+|A2 | [Executive Summary](docs/Executive_Summary.md) | Context, OpenEMS capabilities, expected outcomes, budget, risks, pilot design | Foundation | **Research lead** | Funders, regulators | [x] |
 |A3 | [Programme charter and governance plan](docs/Programme_Charter.md) | Roles, decision rights, steering committee, escalation | Planning | **Programme manager** | Steering group | [x] |
 |A4 | [Stakeholder engagement plan](docs/Stakeholder_Engagement_Plan.md) | Engagement of Ministry of Energy, EPRA, Kenya Power, universities, communities | Planning | **Programme manager** | Stakeholders | [x] |
 |A5 | [MoUs and site agreements](docs/MoU_and_Site_Agreement_Templates.md) | Data sharing, site access, asset ownership, liability | Planning | **Legal/regulatory lead** | Site hosts, partners | [x] |
