@@ -40,7 +40,7 @@ Kenya generates over 80% of its electricity from renewables, but faces 23.4% sys
 |C3 | [Installation and commissioning plan](docs/Installation_and_Commissioning_Plan.md) | Sequence, safety, acceptance criteria | Installation | **Technical lead** | Installers, site hosts | [x] |
 |C4 | [OpenEMS configuration baseline](docs/OpenEMS_Configuration_Baseline.md) | Version-controlled Edge configs per site | Installation | **Software engineer** | Technical team | [x] |
 |C5 | [Site acceptance test reports](docs/Site_Acceptance_Test_Reports.md) | Evidence that each site meets spec before operation | Installation | **Technical lead** | Steering group | [x] |
-|C6 | [Health, safety and environmental plan](docs/#) | Battery handling, electrical safety, end-of-life | Installation | **Site engineer** | Installers, hosts | [ ]|
+|C6 | [Health, safety and environmental plan](docs/Health_Safety_and_Environmental_Plan.md) | Battery handling, electrical safety, end-of-life | Installation | **Site engineer** | Installers, hosts | [x]|
 
 ### D. Operation and monitoring
 
