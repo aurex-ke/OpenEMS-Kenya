@@ -1,0 +1,59 @@
+name: Project feedback
+description: Ask a question, report a documentation issue, or suggest an improvement.
+title: ""
+labels: []
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form for questions, research or documentation corrections, and suggestions.
+        **Do not include personal, confidential, site-operational, or security-sensitive information.**
+        To report a security vulnerability, use [GitHub's private vulnerability reporting](https://github.com/aurex-ke/OpenEMS-Kenya/security/advisories/new), not a public issue.
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: What is this about?
+      options:
+        - Question
+        - Documentation correction
+        - Research or data suggestion
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: location
+    attributes:
+      label: Relevant document or area
+      description: Include a filename, section, or link if applicable.
+      placeholder: "For example: docs/Feasibility_Study.md, Assumptions section"
+    validations:
+      required: false
+
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Explain your question, the issue you noticed, or your suggestion.
+      placeholder: What should maintainers know?
+    validations:
+      required: true
+
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources or references
+      description: For factual or research suggestions, include relevant links or citations.
+      placeholder: Links, citations, or "Not applicable"
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before submitting
+      options:
+        - label: I have checked that this report does not disclose private or sensitive information.
+          required: true
