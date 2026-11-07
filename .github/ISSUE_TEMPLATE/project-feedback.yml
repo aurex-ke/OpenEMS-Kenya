@@ -1,8 +1,5 @@
 name: Project feedback
 description: Ask a question, report a documentation issue, or suggest an improvement.
-title: ""
-labels: []
-assignees: []
 body:
   - type: markdown
     attributes:
