@@ -4,6 +4,8 @@
 
 Research programme on deploying an open-source energy management system, in Kenya's high-renewable grid.
 
+## Context
+
 Kenya generates over 80% of its electricity from renewables, but faces 23.4% system losses, rising peak demand (2,316 MW in Feb 2025), fast-growing EV charging and a 50% net-metering export credit. This project asks whether an open-source EMS can help stabilise the grid, reduce losses, lower energy costs and safely integrate EV charging, and whether doing so is technically, economically and institutionally viable.
 
 ## Documents
