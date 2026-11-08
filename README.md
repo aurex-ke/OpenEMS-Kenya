@@ -81,6 +81,11 @@ Early stage. Cost figures in the documents are indicative (2026 prices) and inte
 
 Released under the [Apache License 2.0](LICENSE).
 
+## Accessibility
+
+See [ACCESSIBILITY.md](ACCESSIBILITY.md) for accessibility practices and how
+to report barriers in repository materials.
+
 ## References
 
 - [OpenEMS](https://openems.io)
