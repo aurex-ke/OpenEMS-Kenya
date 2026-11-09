@@ -64,7 +64,7 @@ Kenya generates over 80% of its electricity from renewables, but faces 23.4% sys
 |E3 | [Lessons learned and replication guide](docs/Lessons_Learned_and_Replication_Guide.md) | Reusable deployment playbook for Kenya | Evaluation	| **Technical lead** | Developers, utilities | [x] |
 |E4 | [Policy brief](docs/Policy_Brief.md) | Recommendations on net-metering, BESS and EV rules | Evaluation | **Legal/regulatory lead** | Ministry, EPRA | [x] |
 |E5 | [Open-source release package](docs/Open-Source_Release_Package.md) | Configs, scripts and anonymised data under Apache 2.0 | Evaluation | **Software engineer** | Community | [x] |
-|E6 | [Academic paper or conference submission](docs/#) | Peer-reviewed evidence | Evaluation | **Research lead** | Academic community | [ ] |
+|E6 | [Academic paper or conference submission](docs/Academic_Paper_or_Conference_Submission.md) | Peer-reviewed evidence | Evaluation | **Research lead** | Academic community | [x] |
 
 ## Research at a glance
 
