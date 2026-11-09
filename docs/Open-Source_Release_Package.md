@@ -1,4 +1,4 @@
-# Open-Source Release Package (E5)
+# Open-Source Release Package
 
 ## 1. Purpose and bottom line
 
