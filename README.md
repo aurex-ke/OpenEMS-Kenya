@@ -62,8 +62,8 @@ Kenya generates over 80% of its electricity from renewables, but faces 23.4% sys
 |E1 | [Interim evaluation report](docs/Interim_Evaluation_Report.md) | Mid-pilot findings and course corrections | Operation | **M&E lead** | Steering group | [x] |
 |E2 | [Final evaluation report](docs/Final_Evaluation_Report.md) | Answers the central and supporting research questions | Evaluation | **Research lead** | Funders, regulators | [x] |
 |E3 | [Lessons learned and replication guide](docs/Lessons_Learned_and_Replication_Guide.md) | Reusable deployment playbook for Kenya | Evaluation	| **Technical lead** | Developers, utilities | [x] |
-|E4 | [Policy brief](docs/#) | Recommendations on net-metering, BESS and EV rules | Evaluation | **Legal/regulatory lead** | Ministry, EPRA | [ ] |
-|E5 | [Open-source release package](docs/#) | Configs, scripts and anonymised data under Apache 2.0 | Evaluation | **Software engineer** | Community | [ ] |
+|E4 | [Policy brief](docs/Policy_Brief.md) | Recommendations on net-metering, BESS and EV rules | Evaluation | **Legal/regulatory lead** | Ministry, EPRA | [x] |
+|E5 | [Open-source release package](docs/Open-Source_Release_Package.md) | Configs, scripts and anonymised data under Apache 2.0 | Evaluation | **Software engineer** | Community | [x] |
 |E6 | [Academic paper or conference submission](docs/#) | Peer-reviewed evidence | Evaluation | **Research lead** | Academic community | [ ] |
 
 ## Research at a glance
