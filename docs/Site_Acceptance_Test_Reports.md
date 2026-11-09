@@ -1,4 +1,4 @@
-# Site Acceptance Test Reports (Pilots A, B, C)
+# Site Acceptance Test Reports
 
 ## 1. Purpose and bottom line
 

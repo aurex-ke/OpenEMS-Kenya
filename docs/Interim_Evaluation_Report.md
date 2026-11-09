@@ -1,4 +1,4 @@
-# Interim Evaluation Report (E1)
+# Interim Evaluation Report
 
 ## 1. Purpose and bottom line
 

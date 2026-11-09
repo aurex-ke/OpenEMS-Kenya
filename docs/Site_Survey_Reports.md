@@ -1,4 +1,4 @@
-# Site Survey Reports (Pilots A, B, C)
+# Site Survey Reports
 
 Supports Feasibility Study (D1) Sections 10 and 13, and feeds D4 (site specifications) and Gate 1.
 
